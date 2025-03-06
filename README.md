@@ -15,7 +15,7 @@ Este proyecto es un ejemplo básico de una API GraphQL construida con Express.js
 
 ### Clonar el repositorio:
 ```bash
-git clone https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo07(https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo07)
+git clone https://github.com/univalle-postgrado/univalle-postgrado-scz-ejemplo07
 ```
 
 ### Instalación de dependencias
